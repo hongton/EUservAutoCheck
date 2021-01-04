@@ -9,4 +9,4 @@
 3. 执行项目中的`EUservAutoCheck.py`程序即可(需要先修改该python文件中的帐号信息,以及代理信息)
 
 ## 自动化
-安装crontab,使用`crontab -e`添加定时任务。`0 7 * * * python3 <项目中python脚本所在绝对路径> `,即每天7.am执行脚本。
+安装crontab,使用`crontab -e`添加定时任务。`0 7 * * * python3 <项目中python脚本所在绝对路径> `,即每天7.am执行脚本。。
